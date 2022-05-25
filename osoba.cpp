@@ -1,0 +1,3 @@
+#include "osoba.h"
+
+

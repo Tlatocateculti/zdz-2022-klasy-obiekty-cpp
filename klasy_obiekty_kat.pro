@@ -4,4 +4,16 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp
+        adres.cpp \
+        convert.cpp \
+        magazyn.cpp \
+        main.cpp \
+        menu.cpp \
+        osoba.cpp
+
+HEADERS += \
+    adres.h \
+    convert.h \
+    magazyn.h \
+    menu.h \
+    osoba.h
