@@ -1,5 +1,5 @@
 #include "menu.h"
-
+/*Komentarz dodany przez Visual Studio*/
 
 
 int main()
